@@ -1,0 +1,17 @@
+[0] -> NULL
+[1] -> NULL
+[2] -> NULL
+====================
+[0] -> 1 -> NULL
+[1] -> 0 -> 2 -> NULL
+[2] -> 4 -> NULL
+[3] -> NULL
+[4] -> 2 -> NULL
+====================
+[0] -> 1 -> NULL
+[1] -> 2 -> NULL
+[2] -> 4 -> NULL
+[4] -> 2 -> NULL
+====================
+Maximum In-Degree  : Vertex 2 2
+Maximum Out-Degree : Vertex 0 1
